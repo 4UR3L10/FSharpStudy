@@ -6,4 +6,5 @@ open System
 let main argv =
     printfn "Hello World from F#!"
     printfn "Read the VS Tutorial Github"
+    printfn "Another"
     0 // return an integer exit code
